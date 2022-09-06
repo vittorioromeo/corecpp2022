@@ -6,7 +6,7 @@ Repository for my Core C++ 2022 talks.
 
 * [Abstract](https://corecpp.org/schedule/#session-199)
 
-* [~Slides~](TODO)
+* [Slides](https://github.com/vittorioromeo/corecpp2022/blob/main/pragmatic_simplicity_corecpp2022.pdf)
 
 * [~YouTube video~](TODO)
 
